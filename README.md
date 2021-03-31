@@ -11,3 +11,10 @@ The parameters of the radar are set as follows：
 the horizontal heat map like this:
 
 ![Figure_1](https://user-images.githubusercontent.com/53046813/113151259-7bb9e800-9267-11eb-86f1-e206d09d5333.png)
+
+
+You may need to modify this line of code in the radar.py file, because the com port connected to each person's radar may be different：
+
+![image](https://user-images.githubusercontent.com/53046813/113151957-32b66380-9268-11eb-9eba-5d14122c72c3.png)
+
+![image](https://user-images.githubusercontent.com/53046813/113152048-4c57ab00-9268-11eb-95f4-c1f029d7b6fc.png)
