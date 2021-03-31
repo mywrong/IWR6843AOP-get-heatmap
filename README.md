@@ -5,7 +5,8 @@ Please make sure that your radar can run TI's official Out of Box Demo(https://d
 
 The parameters of the radar are set as follows：
 
-![image](https://user-images.githubusercontent.com/53046813/113151606-d7847100-9267-11eb-9797-526ad254f557.png)
+![image](https://user-images.githubusercontent.com/53046813/113153854-10254a00-926a-11eb-89c8-792e116b8e01.png)
+
 
 
 the horizontal heat map like this:
